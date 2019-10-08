@@ -9,7 +9,7 @@ assignees: ''
 
 ## Firebase URL
  - URL: [e.g. http://~]
- 
+
 ##  Info
 #### App
  - Version: [e.g. 22]
@@ -27,3 +27,6 @@ assignees: ''
 ~~~
 
 ~~~
+
+## Other
+[e.g. この辺が怪しい。原因っぽい]
