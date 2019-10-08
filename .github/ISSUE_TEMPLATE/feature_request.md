@@ -7,14 +7,19 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Info
+- URL: [e.g. http://~]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Is your feature request related to a problem? Please describe.
+[e.g. 〇〇で絞り込みたいと要望があった]
+ - URL: [e.g. http://~]
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Describe the solution you'd like
+[e.g. 絞り込み機能]
+ - [e.g. 一覧で〇〇を指定して絞り込む]
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Describe alternatives you've considered
+[e.g. この絞り込みは難しいので、表示一覧を分けてみては？]
+
+## Other
+[e.g. この辺を修正すればいけそう]
