@@ -31,5 +31,8 @@ assignees: ''
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
 
+## Related issues
+[e.g. #1234]
+
 ## Other
 [e.g. この辺が怪しい。原因っぽい]
